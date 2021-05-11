@@ -10,3 +10,5 @@
   - `git remote -v`
   - `git push -u origin master`
 - [ ] Add notes on using/installing the [GitHub CLI](https://cli.github.com/)
+- [ ] Practice with about 5 more repositories on my local account
+
